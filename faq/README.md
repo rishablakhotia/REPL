@@ -13,6 +13,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - [:one: Just enrolled - First steps](#one-just-enrolled---first-steps)
   - [Getting access to the programme](#getting-access-to-the-programme)
     - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
+    - [What can I do if I can't log in to my student email](#what-can-i-do-if-i-cant-log-in-to-my-student-email)
     - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
     - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
   - [Getting access to student perks](#getting-access-to-student-perks)
@@ -145,6 +146,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 #### How long do I have to wait to receive the student email and student card
 
 - Expect a delay of approximately 4 to 6 weeks before you get access. You will receive an email to activate your ISIC virtual student card.
+
+#### What can I do if I can't log in to my student email
+
+- Try updating your password in the [student portal](https://my.london.ac.uk): this password will also be used to log in to your university email.
 
 #### What is my username to log in to the student's portal at my.london.ac.uk
 
@@ -599,7 +604,7 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
-- You can apply at any time before you take your first level 5 module. Beware that RPL will take some time to be proceeded.
+- You can apply at any time before you take your first level 5 module. To study modules at level 5, you need to have attempted all modules at level 4 first or — in the case of a RPL for How Computers Work — have that module approved by the university _before_ you can register for new modules as it would not count as an attempt yet (since it is being attempted outside UoL and not yet validated). **Beware that the university may take some time to process your application for RPL**: a RPL yet to be approved will prevent you from registering modules at level 5 (this applies to any other modules at level 4, too). See the progression rules in the programme regulations for details.
 
 ### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
 
